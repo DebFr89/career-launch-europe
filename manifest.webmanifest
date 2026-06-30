@@ -1,0 +1,19 @@
+{
+  "name": "Debanjan Patra — Career Coaching for France & Europe",
+  "short_name": "Launch Europe",
+  "description": "Personal coaching that helps internationals land roles in France and across Europe. The Europe Launch Method by Debanjan Patra.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "minimal-ui",
+  "orientation": "any",
+  "background_color": "#070C14",
+  "theme_color": "#070C14",
+  "lang": "en",
+  "categories": ["business", "education", "productivity"],
+  "icons": [
+    { "src": "./icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "./icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

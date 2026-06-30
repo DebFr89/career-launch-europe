@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Debanjan Patra">
+  <defs>
+    <linearGradient id="sig" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#34E1FF"/>
+      <stop offset="1" stop-color="#7C5CFF"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="#070C14"/>
+  <path d="M96 392 L188 332 L268 350 L344 232 L416 132"
+        fill="none" stroke="url(#sig)" stroke-width="22"
+        stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="416" cy="132" r="26" fill="#34E1FF"/>
+</svg>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://debfr89.github.io/career-launch-europe/sitemap.xml
