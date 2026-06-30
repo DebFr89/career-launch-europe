@@ -4,11 +4,10 @@
 // =============================================================================
 
 // --- BOOKING ----------------------------------------------------------------
-// Paste your Microsoft Bookings page URL here (replace the whole string).
-// It looks like:
-//   https://outlook.office365.com/owa/calendar/<your-slug>@<tenant>/bookings/
-// Until you do, the booking section shows a button + a setup note (no broken iframe).
-export const BOOKINGS_URL = 'https://outlook.office365.com/owa/calendar/REPLACE_ME/bookings/';
+// Your scheduler link. Works with Calendly, Cal.com, or Microsoft Bookings —
+// the booking section embeds it and also shows an "open in new tab" button.
+// (If this ever contains REPLACE_ME, the site shows a setup note instead of a broken iframe.)
+export const BOOKINGS_URL = 'https://calendly.com/debanjan-patra/30min';
 
 // OPTIONAL: if you create one Microsoft Bookings *service* per package, paste the
 // per-service deep links here so each pricing button opens the right one.
